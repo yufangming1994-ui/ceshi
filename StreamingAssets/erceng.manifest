@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 4045048898
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 521d4cfd1f809a0fafc8ff48353db0b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: be00db6fe26cdc753a93ad4f664332ee
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 521d4cfd1f809a0fafc8ff48353db0b6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/cdn_ziyuan/juese/\u5251\u4FEE\u6309\u94AE0.png"
+- "Assets/cdn_ziyuan/juese/\u5973\u5251\u4FEE.png"
+- "Assets/cdn_ziyuan/juese/\u9B54\u4FEE\u6309\u94AE0.png"
+- "Assets/cdn_ziyuan/juese/\u9B54\u4FEE\u5B57\u4F53.png"
+- "Assets/cdn_ziyuan/juese/\u5973\u9B54\u4FEE.png"
+- "Assets/cdn_ziyuan/juese/\u5251\u4FEE.png"
+- "Assets/cdn_ziyuan/juese/\u5973\u795E\u70BC.png"
+- "Assets/cdn_ziyuan/juese/\u9B54\u4FEE\u6309\u94AE1.png"
+- "Assets/cdn_ziyuan/juese/\u5251\u4FEE\u5B57\u4F53.png"
+- "Assets/cdn_ziyuan/juese/\u7537\u89D2\u8272\u6309\u94AE1.png"
+- "Assets/cdn_ziyuan/juese/\u795E\u70BC\u5E08\u6309\u94AE1.png"
+- "Assets/cdn_ziyuan/juese/\u5251\u4FEE\u6309\u94AE1.png"
+- "Assets/cdn_ziyuan/juese/\u5973\u89D2\u8272\u6309\u94AE1.png"
+- "Assets/cdn_ziyuan/juese/\u5973\u89D2\u8272\u6309\u94AE0.png"
+- "Assets/cdn_ziyuan/juese/\u7537\u89D2\u8272\u6309\u94AE0.png"
+- "Assets/cdn_ziyuan/juese/\u795E\u70BC\u5E08\u6309\u94AE0.png"
+- "Assets/cdn_ziyuan/juese/\u5F00\u59CB\u4FEE\u70BC\u6309\u94AE.png"
+- "Assets/cdn_ziyuan/juese/\u795E\u70BC.png"
+- "Assets/cdn_ziyuan/juese/\u795E\u70BC\u5E08\u5B57\u4F53.png"
+- "Assets/cdn_ziyuan/juese/\u9009\u89D2\u80CC\u666F.jpg"
+- "Assets/cdn_ziyuan/juese/\u9B54\u4FEE.png"
+Dependencies: []

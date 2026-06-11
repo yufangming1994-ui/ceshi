@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2541147993
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: zhubao
+      Dependencies: {}
+    Info_1:
+      Name: xieyiyemian
+      Dependencies: {}
+    Info_2:
+      Name: erceng
+      Dependencies: {}
